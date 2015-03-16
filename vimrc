@@ -362,11 +362,11 @@
 " Plugins Settings {
 "
     " Settings for vim-colorschemes {
-        if filereadable(expand("~/.vim/bundle/vim-colorschemes/colors/wombat256.vim"))
+        if filereadable(expand("~/.vim/bundle/vim-colorschemes/colors/wombat256mod.vim"))
             syntax enable
             set background=dark
             set t_Co=256
-            colorscheme wombat256
+            colorscheme wombat256mod
         endif
     "}
 
