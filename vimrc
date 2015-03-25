@@ -242,6 +242,10 @@
 
     " General
 
+    " Install chrisbra/vim-diff-enhanced {
+        Plugin 'chrisbra/vim-diff-enhanced'
+    "}
+
     " Install tpope/vim-surround {
         " Surround.vim is all about "surroundings": parentheses, brackets, quotes,
         " XML tags, and more. The plugin provides mappings to easily delete,
