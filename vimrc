@@ -213,7 +213,7 @@
 
     " To open a new empty buffer
     " This replaces :tabnew which I used to bind to this mapping
-    nmap <leader>T :enew<cr>
+    nmap <c-n> :enew<CR>
     " Show all open buffers and their status
     nmap <leader>bl :ls<CR>"
     " Move to the next buffer
