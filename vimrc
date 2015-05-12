@@ -371,6 +371,7 @@
             set background=dark
             set t_Co=256
             colorscheme wombat256mod
+            hi CursorLine  ctermbg=8
         endif
     "}
 
