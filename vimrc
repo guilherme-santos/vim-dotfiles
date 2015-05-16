@@ -358,6 +358,10 @@
         Plugin 'Shougo/neosnippet-snippets'
     "}
 
+    " Install derekwyatt/vim-scala {
+        Plugin 'derekwyatt/vim-scala'
+    "}
+
     " All of your Plugins must be added before the following line
     call vundle#end()
     filetype plugin indent on
