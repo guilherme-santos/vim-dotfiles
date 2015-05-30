@@ -3,8 +3,8 @@ My vimrc configuration
 
 ## Install
 
-    git clone https://github.com/lborguetti/my.vim
-    cd my.vim
+    git clone https://github.com/lborguetti/vim-dotfiles
+    cd vim-dotfiles
 
     # Install vimrc and plugins
     make install
